@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Rafal
-- 👀 I’m interested in Web Development and Business Analysis
-- 🌱 I’m currently learning Angular and React
-- 💞️ You can find me on:
+# 👋 Hi, I’m Rafal
+## What I do
+- Business Analysis with 🐍Python and 📊Excel
+- Currently learning Web Development, now focused on Full-stack apps with Angular and React
+## Find me somewhere else!
 - ✅ My website (work in progress) https://rafaljaroszewicz.com
 - ✅ Linkedin https://www.linkedin.com/in/rafal-jaroszewicz-716455217/
 - ✅ Medium https://medium.com/@jarorafo
+
+
+![Rafal's GitHub stats](https://github-readme-stats.vercel.app/api?username=marelons1337&show_icons=true&theme=radical)
 
 
 <!---
