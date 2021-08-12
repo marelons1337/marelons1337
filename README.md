@@ -5,7 +5,7 @@
 ## Find me somewhere else!
 - 🌐 My webstie https://medium.com/@jarorafo
 - 🙎🏻‍♂️ Linkedin https://www.linkedin.com/in/rafal-jaroszewicz-716455217/
-- 🖊 Just started my Medium page where I share my experience https://medium.com/@jarorafo
+- 🖊 Just started a Medium page where I share my experience https://medium.com/@jarorafo
 
 
 ![Rafal's GitHub stats](https://github-readme-stats.vercel.app/api?username=marelons1337&show_icons=true&theme=radical)
