@@ -3,7 +3,7 @@
 - Business Analysis with 🐍Python and 📊Excel
 - Currently learning Web Development, now focused on Full-stack apps with Angular and React
 ## Find me somewhere else!
-- 🌐 My webstie https://medium.com/@jarorafo
+- 🌐 My webstie https://rafaljaroszewicz.com
 - 🙎🏻‍♂️ Linkedin https://www.linkedin.com/in/rafal-jaroszewicz-716455217/
 - 🖊 Just started a Medium page where I share my experience https://medium.com/@jarorafo
 
