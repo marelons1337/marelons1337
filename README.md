@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rafal
 ## What I do
-- Business Analysis with 🐍Python and 📊Excel
+- Programming in Ruby on Rails
 - Currently learning Web Development, now focused on Full-stack apps with Angular and React
 ## Find me somewhere else!
 - 🌐 My webstie https://rafaljaroszewicz.com
