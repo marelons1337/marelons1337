@@ -3,7 +3,7 @@
 - Programming in Ruby on Rails
 - Currently learning Web Development, now focused on Full-stack apps with Angular and React
 ## Find me somewhere else!
-- 🌐 My webstie https://rafaljaroszewicz.com
+- 🌐 My blog https://blog.rafaljaroszewicz.com
 - 🙎🏻‍♂️ Linkedin https://www.linkedin.com/in/rafal-jaroszewicz-716455217/
 
 
