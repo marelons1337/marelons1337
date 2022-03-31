@@ -2,7 +2,6 @@
 I believe in technology, and I know we can make the world a better place.
 ## What I do
 - Programming in Ruby on Rails and Javascript 🔥
-- Currently learning Rust 🦀 
 ## Find me somewhere else!
 - 🌐 My blog https://blog.rafaljaroszewicz.com
 - 🙎🏻‍♂️ Linkedin https://www.linkedin.com/in/rafal-jaroszewicz-716455217/
