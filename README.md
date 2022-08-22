@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rafal
+# 👋 Hi, I’m Rafał
 I believe in technology, and I know we can make the world a better place.
 ## What I do
 - Programming in Ruby on Rails and Javascript 🔥
