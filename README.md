@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rafał
 I believe in technology, and I know we can make the world a better place.
 ## What I do
-- Programming in Ruby on Rails and Javascript 🔥
+- Programming in Ruby and Javascript 🔥
 ## Find me somewhere else!
 - 🌐 My blog https://blog.rafaljaroszewicz.com
 - 🙎🏻‍♂️ Linkedin https://www.linkedin.com/in/rafa%C5%82-jaroszewicz-716455217/
